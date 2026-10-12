@@ -1,9 +1,9 @@
 My code lives on my own Gitea at **[git.thromb.us](https://git.thromb.us/eve)**, with mirrors on [Codeberg](https://codeberg.org/hemepanel). The repositories here only point there.
 
-- **[clotting](https://git.thromb.us/eve/clotting)** - small aio (tiling/floating/canvas) wayland compositor in C on wlroots, plus a light desktop around it: launcher, notifications, lock screen, wallpaper and a settings editor
-- **[embalm](https://git.thromb.us/eve/embalm)** - auto music archiver
-- **[lymph](https://git.thromb.us/eve/lymph)** - self-hosted obsidian type notes app named after lymph-nodes will add plugin support in the near future
-- **[marrow](https://git.thromb.us/eve/marrow)** - Back up photos & videos to Google Photos through an Android phone or redroid, unlimited & original quality.
+- **[clotting](https://git.thromb.us/eve/clotting)** - Tiling/floating Wayland compositor and desktop in C
+- **[embalm](https://git.thromb.us/eve/embalm)** - Archives SoundCloud, YouTube and Bandcamp uploads
+- **[lymph](https://git.thromb.us/eve/lymph)** - Self-hosted markdown notes with graph and canvas
+- **[marrow](https://git.thromb.us/eve/marrow)** - Unlimited original-quality Google Photos backup
 
 ## Why not GitHub
 
