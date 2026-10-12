@@ -4,6 +4,7 @@ My code lives on my own Gitea at **[git.thromb.us](https://git.thromb.us/eve)**,
 - **[embalm](https://git.thromb.us/eve/embalm)** - Archives SoundCloud, YouTube and Bandcamp uploads
 - **[lymph](https://git.thromb.us/eve/lymph)** - Self-hosted markdown notes with graph and canvas
 - **[marrow](https://git.thromb.us/eve/marrow)** - Unlimited original-quality Google Photos backup
+- **[prion](https://git.thromb.us/eve/prion)** - Pollutes the profile trackers keep on you with slow, persona-driven fake browsing.
 
 ## Why not GitHub
 
