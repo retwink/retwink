@@ -6,6 +6,7 @@ My code lives on my own Gitea at **[git.thromb.us](https://git.thromb.us/eve)**,
 - **[marrow](https://git.thromb.us/eve/marrow)** - Unlimited original-quality Google Photos backup
 - **[prion](https://git.thromb.us/eve/prion)** - Pollutes the profile trackers keep on you with slow, persona-driven fake browsing.
 - **[deck](https://git.thromb.us/eve/deck)** - A stream deck in a web page: an old phone or tablet runs commands on your Linux desktop
+- **[tether](https://git.thromb.us/eve/tether)** - Lock your Linux session when your phone walks away (Bluetooth, no app on the phone)
 
 ## Why not GitHub
 
